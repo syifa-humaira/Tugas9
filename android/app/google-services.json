@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018645740165",
+    "project_id": "g2-academy",
+    "storage_bucket": "g2-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018645740165:android:05f49fcde3de5f93d507ec",
+        "android_client_info": {
+          "package_name": "com.tugas9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018645740165-oev59k54rjrj6948rppnc8see82kk26u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlOkNAFo5cIwKperkU5Kj0W9vJQxTwBN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018645740165-oev59k54rjrj6948rppnc8see82kk26u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
